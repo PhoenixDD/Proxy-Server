@@ -1,4 +1,4 @@
-# Proxy-Server
+# Proxy Server
 
 Description:<br/>
 ->A proxy server created in C, handles HTTP (GET) and FTP Protocols.<br/>
