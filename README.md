@@ -1,7 +1,9 @@
 # Proxy-Server
 
 Description:<br/>
-->A proxy server created in C, handles HTTP and FTP Protocols.<br/>
+->A proxy server created in C, handles HTTP (GET) and FTP Protocols.<br/>
+->The repository contains two proxy servers, proxy initial handles only HTTP(GET) protocol where as proxy handles HTTP(GET)
+  and FTP protocols.
 ->The code is properly documented for reference.<br/>
 
 Issues:<br/>
