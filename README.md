@@ -8,4 +8,4 @@ Description:<br/>
 
 Issues:<br/>
 ->It is definitly not efficient or elegant, it has just been one of the projects I tried and have manged to pull off :)<br/>
-->It might run into broken pipe error at certain ocasions.<br/>
+->It might run into broken pipe error at certain occasions.<br/>
